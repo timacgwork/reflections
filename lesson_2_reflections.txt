@@ -7,3 +7,7 @@ The staging area keeps track of what you want to add for the next commit.
 What value do you think it offers?
 The staging area allows you to choose the different pieces you want to place
 together in a commit.
+
+How can you use the staging area to make sure you have one commit per logical change?
+Do a 'git diff --staged' to see what is in the staging area versus the last
+commit.
