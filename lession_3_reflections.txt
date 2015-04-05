@@ -21,3 +21,7 @@ You will know when your local repository is out of sync with the remote reposito
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 To collaborate without Git/GitHub I would need to send zip files.
 Once you understand Git/GitHub, I think Git would be an easier way to collaborate.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+You would want to make changes in a separate branch when there is the possibility of breaking production code.
+Not sure how to answer the second question.
