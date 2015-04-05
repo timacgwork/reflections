@@ -17,3 +17,7 @@ Branch - You want to try experiments or new functionality to working code.
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 You will know when your local repository is out of sync with the remote repository without internet access.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+To collaborate without Git/GitHub I would need to send zip files.
+Once you understand Git/GitHub, I think Git would be an easier way to collaborate.
