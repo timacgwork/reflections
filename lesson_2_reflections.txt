@@ -11,3 +11,21 @@ together in a commit.
 How can you use the staging area to make sure you have one commit per logical change?
 Do a 'git diff --staged' to see what is in the staging area versus the last
 commit.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When you are trying experiments or major changes to your code branches make
+it easy to try out the code and get back to a working version of the code.
+
+How do the diagrams help you visualize the branch structure?
+Shows how branches can be used for experimental code or testing new features.
+
+What is the result of merging two branches together?
+The two branches become one and the tag for the merged branch is no longer
+needed.
+Why do we represent it in the diagram the way we do?
+To show that all the commits from both branches are available.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Where commit differences are easy to understand, automatic merging makes sense.
+Where commit differeences are not easily understood, manual merging makes sense.
+
